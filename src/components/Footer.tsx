@@ -9,15 +9,15 @@ const Footer = () => {
           {/* Company Info */}
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-4 mb-6">
-              <img src={logo} alt="ConStruct Pro Logo" className="h-12 w-auto" />
+              <img src={logo} alt="EliteConstruct SRL Logo" className="h-12 w-auto" />
               <div>
-                <h3 className="text-2xl font-bold">ConStruct Pro</h3>
-                <p className="text-primary-foreground/80">Construcții de Calitate</p>
+                <h3 className="text-2xl font-bold">EliteConstruct SRL</h3>
+                <p className="text-primary-foreground/80">Construcții de Excelență</p>
               </div>
             </div>
             <p className="text-primary-foreground/90 mb-6 max-w-md">
-              Companie românească de construcții cu 15 ani de experiență în proiecte 
-              rezidențiale, comerciale și industriale. Calitate garantată și respect pentru termene.
+              EliteConstruct SRL - companie românească de construcții cu 15 ani de experiență în proiecte 
+              rezidențiale, comerciale și industriale. Excelență garantată și respect pentru termene.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center hover:shadow-glow transition-all duration-300">
@@ -62,7 +62,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-accent flex-shrink-0" />
-                <span className="text-primary-foreground/80">contact@constructpro.ro</span>
+                <span className="text-primary-foreground/80">contact@eliteconstruct.ro</span>
               </div>
             </div>
           </div>
@@ -73,7 +73,7 @@ const Footer = () => {
         <div className="container py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-primary-foreground/60 text-sm">
-              © 2024 ConStruct Pro. Toate drepturile rezervate.
+              © 2024 EliteConstruct SRL. Toate drepturile rezervate.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-primary-foreground/60 hover:text-accent text-sm transition-colors">

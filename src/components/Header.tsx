@@ -7,10 +7,10 @@ const Header = () => {
     <header className="bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 sticky top-0 z-50 w-full border-b border-border/40">
       <div className="container flex h-16 items-center justify-between">
         <div className="flex items-center space-x-4">
-          <img src={logo} alt="ConStruct Pro Logo" className="h-10 w-auto" />
+          <img src={logo} alt="EliteConstruct SRL Logo" className="h-10 w-auto" />
           <div className="hidden md:block">
-            <h1 className="text-xl font-bold text-primary">ConStruct Pro</h1>
-            <p className="text-xs text-muted-foreground">Construcții de Calitate</p>
+            <h1 className="text-xl font-bold text-primary">EliteConstruct SRL</h1>
+            <p className="text-xs text-muted-foreground">Construcții de Excelență</p>
           </div>
         </div>
 
@@ -40,7 +40,7 @@ const Header = () => {
             </div>
             <div className="flex items-center space-x-1 text-muted-foreground">
               <Mail className="h-4 w-4" />
-              <span>contact@constructpro.ro</span>
+              <span>contact@eliteconstruct.ro</span>
             </div>
           </div>
           
