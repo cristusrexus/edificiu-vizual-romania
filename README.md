@@ -1,73 +1,9 @@
-# Welcome to your Lovable project
+# EliteConstruct SRL - Website de prezentare
 
-## Project info
+Acest website este dedicat companiei EliteConstruct SRL, o firmă specializată în domeniul construcțiilor, cu o experiență vastă în proiecte rezidențiale, industriale și comerciale. Scopul principal al acestui site este de a oferi o imagine profesională, clară și convingătoare, care să reflecte seriozitatea și calitatea serviciilor oferite de companie.
 
-**URL**: https://lovable.dev/projects/56245085-0580-4a2a-b669-880ab68c951d
+Website-ul este structurat astfel încât să faciliteze accesul rapid la informațiile esențiale despre activitatea EliteConstruct, incluzând detalii despre serviciile prestate, portofoliul de proiecte finalizate și valorile companiei. Designul modern și intuitiv permite utilizatorilor să navigheze ușor și să găsească informațiile de care au nevoie fără efort.
 
-## How can I edit this code?
+De asemenea, site-ul oferă multiple modalități de contact și solicitare a ofertelor, astfel încât potențialii clienți și parteneri să poată interacționa rapid și eficient cu echipa EliteConstruct. Prin această platformă online, compania își propune să crească vizibilitatea pe piața construcțiilor și să consolideze încrederea în serviciile sale.
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/56245085-0580-4a2a-b669-880ab68c951d) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/56245085-0580-4a2a-b669-880ab68c951d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+În concluzie, website-ul EliteConstruct SRL este un instrument esențial pentru comunicarea valorii și profesionalismului companiei, contribuind la atragerea de noi clienți și dezvoltarea continuă a afacerii.
